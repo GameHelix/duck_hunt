@@ -126,9 +126,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Ultralytics](https://github.com/ultralytics/ultralytics) for YOLOv8
 - Kaggle for computing resources
 - Dataset contributors
-
-## Contact
-
-Ismat Samadov - [GitHub Profile](https://github.com/Ismat-Samadov)
-
-Project Link: [https://github.com/Ismat-Samadov/parcel_detection](https://github.com/Ismat-Samadov/parcel_detection)
